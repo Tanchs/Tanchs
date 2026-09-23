@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+It is pretty empty around her for now, because I've been kinda ridiculously busy lately, but I'll definitely write something here someday.
+
+...probably :)
 
 <!--
 **Tanchs/Tanchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
